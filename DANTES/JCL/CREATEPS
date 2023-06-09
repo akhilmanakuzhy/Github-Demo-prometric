@@ -7,3 +7,8 @@
 //            SPACE=(TRK,(1,1),RLSE),UNIT=SYSDA,
 //            DCB=(DSORG=PS,RECFM=FB,LRECL=80,BLKSIZE=800)
 //*
+//DD2      DD DSN=userid.IBMMF.PSFILE,
+//            DISP=(NEW,CATLG,DELETE),VOLUME=SER=DEVL,
+//            SPACE=(TRK,(1,1),RLSE),UNIT=SYSDA,
+//            DCB=(DSORG=PS,RECFM=FB,LRECL=80,BLKSIZE=800)
+//*
